@@ -4,5 +4,7 @@ DES is a block cipher and encrypts data in blocks of size of 64 bit each, means 
 
 to run program 
 1)git clone "repo link"
+
 2)g++ main.cpp -o main.exe
+
 3)./main.exe "option{encrypt or decrypt}" "message" "key"
